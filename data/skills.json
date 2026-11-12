@@ -1,0 +1,39 @@
+[
+  {
+    "kategori": "Analisis & Perancangan Sistem",
+    "items": [
+      { "id": "uml", "nama": "UML (Use Case, Activity, Sequence)", "level": 90 },
+      { "id": "bpmn", "nama": "Business Process Modeling (BPMN)", "level": 85 },
+      { "id": "db-design", "nama": "Database Modeling (ERD)", "level": 85 },
+      { "id": "ui-ux", "nama": "UI/UX Wireframing & Prototyping", "level": 80 }
+    ]
+  },
+  {
+    "kategori": "Mobile & Frontend Development",
+    "items": [
+      { "id": "rn-expo", "nama": "React Native & Expo", "level": 88 },
+      { "id": "js", "nama": "JavaScript (ES6+)", "level": 85 },
+      { "id": "react", "nama": "React.js", "level": 82 },
+      { "id": "html-css", "nama": "HTML5 & Modern CSS", "level": 90 }
+    ]
+  },
+  {
+    "kategori": "Backend & Database",
+    "items": [
+      { "id": "php-laravel", "nama": "PHP & Laravel Framework", "level": 84 },
+      { "id": "mysql", "nama": "MySQL & Relational DB", "level": 85 },
+      { "id": "rest-api", "nama": "RESTful API Integration", "level": 88 },
+      { "id": "node", "nama": "Node.js Basics", "level": 75 }
+    ]
+  },
+  {
+    "kategori": "Tools & Workflow",
+    "items": [
+      { "id": "git", "nama": "Git & GitHub Version Control", "level": 85 },
+      { "id": "figma", "nama": "Figma Design Tool", "level": 80 },
+      { "id": "postman", "nama": "Postman API Testing", "level": 85 },
+      { "id": "vscode", "nama": "VS Code & Debugging", "level": 90 }
+    ]
+  }
+]
+

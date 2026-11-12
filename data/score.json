@@ -1,0 +1,39 @@
+{
+  "akademik": {
+    "nama": "Naelul Kirom Indalloh",
+    "nim": "242505011",
+    "mataKuliah": "Pemrograman Mobile 2",
+    "dosen": "Iin Solihin, M.Kom"
+  },
+  "currentScore": {
+    "nilai": 89,
+    "grade": "A"
+  },
+  "learningPoints": {
+    "total": 12375,
+    "satuan": "LP"
+  },
+  "learningProgress": [
+    {
+      "id": "attendance",
+      "label": "Attendance",
+      "persen": 100
+    },
+    {
+      "id": "practice",
+      "label": "Practice",
+      "persen": 87
+    },
+    {
+      "id": "quest",
+      "label": "Quest",
+      "persen": 95
+    },
+    {
+      "id": "challenge",
+      "label": "Challenge",
+      "persen": 100
+    }
+  ],
+  "catatan": "Data dummy untuk UTS"
+}

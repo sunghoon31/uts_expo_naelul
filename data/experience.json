@@ -1,0 +1,83 @@
+[
+  {
+    "id": "masoem",
+    "jenis": "pendidikan",
+    "judul": "S1 Sistem Informasi (Mahasiswa Aktif)",
+    "instansi": "Universitas Ma'soem",
+    "periode": "2024 - Sekarang",
+    "deskripsi": "Fokus pada Analisis & Perancangan Sistem Informasi, Rekayasa Perangkat Lunak, Basis Data Relasional, dan Pemrograman Mobile.",
+    "keterangan": "IPK berjalan memuaskan, aktif dalam berbagai kegiatan akademik dan kepanitiaan kemahasiswaan."
+  },
+  {
+    "id": "ma-aljawami",
+    "jenis": "pendidikan",
+    "judul": "Madrasah Aliyah Al-Jawami (MA)",
+    "instansi": "Madrasah Aliyah Al-Jawami Bandung",
+    "periode": "2021 - 2024",
+    "deskripsi": "Peminatan Matematika dan Ilmu Pengetahuan Alam (MIPA) serta pendalaman studi sains dan keislaman.",
+    "keterangan": "Lulus dengan predikat sangat baik dan aktif dalam kegiatan ekstrakurikuler madrasah."
+  },
+  {
+    "id": "ukm-ksi",
+    "jenis": "organisasi",
+    "judul": "Anggota Aktif UKM Kelompok Studi Islam (KSI)",
+    "instansi": "Universitas Ma'soem",
+    "periode": "2024 - Sekarang",
+    "deskripsi": "Aktif dalam kajian keislaman, pembinaan karakter mahasiswa, program dakwah kampus, dan syiar keumatan.",
+    "keterangan": "Terlibat dalam berbagai agenda silaturahmi, diskusi tematik, dan kegiatan sosial kemahasiswaan."
+  },
+  {
+    "id": "milad-ksi-2026",
+    "jenis": "organisasi",
+    "judul": "Ketua Pelaksana Silaturahmi & Milad KSI 2026",
+    "instansi": "UKM Kelompok Studi Islam (KSI) Universitas Ma'soem",
+    "periode": "2026",
+    "deskripsi": "Memimpin keseluruhan manajemen kepanitiaan, koordinasi lintas divisi (acara, logistik, publikasi), dan temu alumni KSI.",
+    "keterangan": "Berhasil mengoordinasikan panitia dan menyukseskan acara silaturahmi akbar kader serta alumni."
+  },
+  {
+    "id": "mtq-festival-2026",
+    "jenis": "organisasi",
+    "judul": "Koordinator Lomba MTQ Festival Islami 2026",
+    "instansi": "Festival Islami Universitas Ma'soem",
+    "periode": "2026",
+    "deskripsi": "Bertanggung jawab atas teknis perlombaan Musabaqah Tilawatil Qur'an, penyusunan juklak/juknis, dan koordinasi dewan juri.",
+    "keterangan": "Mengelola jalannya kompetisi dengan tertib, lancar, dan objektif untuk seluruh peserta."
+  },
+  {
+    "id": "ramadhan-campus-2026",
+    "jenis": "organisasi",
+    "judul": "Panitia Ramadhan in Campus (RIC) 2026",
+    "instansi": "Universitas Ma'soem",
+    "periode": "2026",
+    "deskripsi": "Mengelola agenda ibadah, kajian keislaman harian, santunan sosial, dan pembagian ta'jil gratis di lingkungan kampus.",
+    "keterangan": "Mengorkestrasi syiar Ramadhan kampus dengan antusiasme jamaah dan mahasiswa yang tinggi."
+  },
+  {
+    "id": "porskam-2025",
+    "jenis": "prestasi",
+    "judul": "Juara 1 E-Sport Mobile Legends Porskam 2025",
+    "instansi": "Pekan Olahraga & Seni Kampus (Porskam) Universitas Ma'soem",
+    "periode": "2025",
+    "deskripsi": "Meraih medali emas / juara pertama pada turnamen e-sports Mobile Legends: Bang Bang tingkat universitas.",
+    "keterangan": "Berperan sebagai pengatur strategi tim (in-game leader) dalam pertandingan kompetitif bertahap."
+  },
+  {
+    "id": "inotech-2024",
+    "jenis": "prestasi",
+    "judul": "Juara 2 E-Sport Mobile Legends Inotech Umum 2024",
+    "instansi": "Inotech E-Sports Championship (Kategori Umum)",
+    "periode": "2024",
+    "deskripsi": "Meraih posisi runner-up pada kompetisi e-sports MLBB tingkat umum yang diikuti puluhan tim regional.",
+    "keterangan": "Membuktikan kemampuan komunikasi tim solid dan koordinasi taktis di turnamen terbuka."
+  },
+  {
+    "id": "porskam-2024",
+    "jenis": "prestasi",
+    "judul": "Juara 1 E-Sport Mobile Legends Porskam 2024",
+    "instansi": "Pekan Olahraga & Seni Kampus (Porskam) Universitas Ma'soem",
+    "periode": "2024",
+    "deskripsi": "Meraih gelar juara pertama turnamen Mobile Legends pada ajang tahunan Porskam Universitas Ma'soem.",
+    "keterangan": "Mengantarkan tim menjuarai turnamen dengan rekor kemenangan tanpa terkalahkan."
+  }
+]

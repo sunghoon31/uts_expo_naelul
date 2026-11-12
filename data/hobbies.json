@@ -1,0 +1,32 @@
+[
+  {
+    "id": "coding",
+    "nama": "Eksplorasi Mobile & Coding",
+    "ikon": "code-slash",
+    "deskripsi": "Mencoba arsitektur baru, library open source, dan komponen antarmuka pengguna pada ekosistem React Native."
+  },
+  {
+    "id": "analysis",
+    "nama": "Analisis Proses Bisnis",
+    "ikon": "analytics",
+    "deskripsi": "Memodelkan alur kerja sistem dunia nyata, studi kasus UMKM, dan optimalisasi efisiensi alur administrasi."
+  },
+  {
+    "id": "reading",
+    "nama": "Membaca Buku & Dokumentasi",
+    "ikon": "book",
+    "deskripsi": "Mempelajari best practice rekayasa perangkat lunak, pola arsitektur modern, dan tren transformasi digital."
+  },
+  {
+    "id": "ui-design",
+    "nama": "Desain Antarmuka & UX",
+    "ikon": "color-palette",
+    "deskripsi": "Merancang wireframe, mockup aplikasi, dan memilih proporsi warna harmoni untuk kenyamanan pengguna."
+  },
+  {
+    "id": "esports",
+    "nama": "E-Sports & Gaming (Mobile Legends)",
+    "ikon": "game-controller",
+    "deskripsi": "Bermain game kompetitif Mobile Legends, melatih strategi tim, pengambilan keputusan taktis (in-game leader), dan aktif berkompetisi di turnamen kampus serta umum."
+  }
+]

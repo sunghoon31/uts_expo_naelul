@@ -1,0 +1,122 @@
+[
+  {
+    "id": "surat-desa",
+    "judul": "Rancang Bangun Sistem Informasi Administrasi Persuratan Di Desa Cileunyi Wetan",
+    "ringkasan": "Platform digital pengajuan dan verifikasi surat keterangan kependudukan untuk percepatan administrasi desa.",
+    "deskripsi": "Inisiatif digitalisasi administrasi desa guna memotong birokrasi manual dan antrean di kantor desa Cileunyi Wetan. Warga dapat mengajukan permohonan surat keterangan (SKCK, SKTM, Domisili) dengan melampirkan berkas digital, sementara perangkat desa memverifikasi secara berjenjang hingga penandatanganan QR code.",
+    "kategori": "Sistem Informasi",
+    "teknologi": ["PHP", "Laravel", "MySQL", "Bootstrap"],
+    "tahun": 2025,
+    "peran": "System Analyst & Fullstack Developer",
+    "fitur": [
+      "Pengajuan permohonan surat online oleh warga",
+      "Verifikasi berkas bertingkat oleh RT/RW dan staf desa",
+      "Penerbitan surat otomatis ber-QR code validasi",
+      "Notifikasi status pengajuan surat"
+    ],
+    "link": "https://github.com/sunghoon31/surat-desa-cileunyi-wetan"
+  },
+  {
+    "id": "mobile-score",
+    "judul": "Personal CV & Academic Score Mobile App",
+    "ringkasan": "Aplikasi mobile profil interaktif, portofolio showcase, dan monitoring capaian akademik mahasiswa berbasis React Native Expo.",
+    "deskripsi": "Aplikasi mobile kelas industri yang mengimplementasikan arsitektur 5-lapisan (Data, Service, Hook, Screen, Component) dengan dukungan dual theme (Light/Dark), mock API berlatensi async, penyimpanan AsyncStorage, dan validasi form ketat.",
+    "kategori": "Mobile",
+    "teknologi": ["React Native", "Expo Router", "JavaScript", "AsyncStorage", "Jest"],
+    "tahun": 2026,
+    "peran": "Lead Mobile Developer",
+    "fitur": [
+      "Navigasi 6 Tab mulus dengan Expo Router",
+      "Dynamic Skills & Portfolio Gallery dengan pencarian instan",
+      "Monitoring skor akademik (89/A) & progress bar interaktif",
+      "Penyimpanan lokal preferensi tema dan pesan kontak",
+      "Pengujian unit otomatis dengan Jest"
+    ],
+    "link": "https://github.com/sunghoon31/UTS_NaelulApp"
+  },
+  {
+    "id": "kalkulator-app",
+    "judul": "Membuat Aplikasi Kalkulator Sederhana",
+    "ringkasan": "Aplikasi kalkulator mobile responsif untuk komputasi aritmatika cepat dan riwayat perhitungan interaktif.",
+    "deskripsi": "Aplikasi utilitas mobile yang dirancang dengan tata letak grid ergonomis, mendukung operasi aritmatika dasar (penjumlahan, pengurangan, perkalian, pembagian), kalkulasi persentase, dan tampilan layar riwayat kalkulasi.",
+    "kategori": "Mobile",
+    "teknologi": ["React Native", "Expo", "JavaScript", "StyleSheet"],
+    "tahun": 2025,
+    "peran": "Mobile Developer",
+    "fitur": [
+      "Operasi aritmatika presisi tinggi",
+      "Riwayat kalkulasi dinamis",
+      "Desain tombol responsif dengan haptic feedback",
+      "Mode tampilan gelap dan terang"
+    ],
+    "link": "https://github.com/sunghoon31/simple-calculator-app"
+  },
+  {
+    "id": "prototype-onlineshop",
+    "judul": "Membuat Prototype Web OnlineShop",
+    "ringkasan": "Purwarupa website e-commerce modern dengan katalog produk terstruktur, keranjang belanja, dan alur checkout.",
+    "deskripsi": "Eksplorasi perancangan antarmuka toko online berbasis web responsif. Dilengkapi halaman beranda dengan carousel banner promo, filter kategori barang, pencarian produk instan, serta simulasi keranjang belanja pengguna.",
+    "kategori": "Web",
+    "teknologi": ["Figma", "HTML5", "CSS3", "JavaScript", "Bootstrap"],
+    "tahun": 2025,
+    "peran": "UI/UX Designer & Frontend Developer",
+    "fitur": [
+      "Katalog produk dengan filter kategori & harga",
+      "Keranjang belanja interaktif (tambah/kurang kuantitas)",
+      "Simulasi checkout dan pemilihan metode pembayaran",
+      "Desain antarmuka responsif ramah perangkat mobile"
+    ],
+    "link": "https://github.com/sunghoon31/onlineshop-web-prototype"
+  },
+  {
+    "id": "penjadwalan-kuliah",
+    "judul": "Membuat Prototype Aplikasi Penjadwalan Kuliah",
+    "ringkasan": "Purwarupa sistem manajemen jadwal perkuliahan mahasiswa dengan pengingat tugas dan kalender akademik.",
+    "deskripsi": "Perancangan sistem informasi dan antarmuka aplikasi penjadwalan kuliah bagi mahasiswa. Membantu mengorganisir jadwal mata kuliah mingguan, ruangan kelas, dosen pengampu, serta notifikasi deadline tugas akademik.",
+    "kategori": "Sistem Informasi",
+    "teknologi": ["Figma", "System Analysis", "UI/UX", "React"],
+    "tahun": 2025,
+    "peran": "System Analyst & UI/UX Designer",
+    "fitur": [
+      "Visualisasi jadwal kuliah mingguan dalam bentuk kartu waktu",
+      "Manajemen pengingat tugas kuliah dan ujian",
+      "Integrasi informasi dosen dan ruang perkuliahan",
+      "Analisis kebutuhan fungsional dan diagram alur sistem"
+    ],
+    "link": "https://github.com/sunghoon31/course-scheduler-prototype"
+  },
+  {
+    "id": "web-laravel-app",
+    "judul": "Membuat Aplikasi Web Berbasis Laravel, HTML, PHP",
+    "ringkasan": "Aplikasi web pengelolaan data dan sistem informasi berbasis framework Laravel dengan arsitektur MVC.",
+    "deskripsi": "Aplikasi berbasis web yang memanfaatkan framework PHP Laravel untuk memproses data CRUD (Create, Read, Update, Delete) secara efisien dan aman. Mengimplementasikan autentikasi pengguna, manajemen database relasional MySQL, dan blade templating.",
+    "kategori": "Web",
+    "teknologi": ["PHP", "Laravel", "HTML5", "MySQL", "Bootstrap"],
+    "tahun": 2025,
+    "peran": "Fullstack Web Developer",
+    "fitur": [
+      "Autentikasi login multi-role dan proteksi rute middleware",
+      "Manajemen master data dengan pagination dinamis",
+      "Operasi database dengan Eloquent ORM",
+      "Validasi form sisi server dan ekspor laporan"
+    ],
+    "link": "https://github.com/sunghoon31/laravel-web-app"
+  },
+  {
+    "id": "calliandra",
+    "judul": "Sistem Informasi Penjualan, Pembelian, dan Persediaan Calliandra Home Living",
+    "ringkasan": "Aplikasi manajemen transaksi terintegrasi untuk pengelolaan stok barang, faktur pembelian, dan laporan penjualan UMKM.",
+    "deskripsi": "Sistem informasi berbasis web yang dirancang khusus untuk Calliandra Home Living dalam mengatasi ketidakteraturan pencatatan stok dan rekonsiliasi kas masuk-keluar. Memiliki modul dashboard analitik penjualan, pencatatan supplier, dan automasi peringatan stok minimum.",
+    "kategori": "Web",
+    "teknologi": ["React", "Node.js", "MySQL", "Tailwind CSS"],
+    "tahun": 2026,
+    "peran": "System Analyst & Frontend Developer",
+    "fitur": [
+      "Manajemen master data produk & varian",
+      "Pencatatan transaksi POS kasir kas & transfer",
+      "Perhitungan stok otomatis (FIFO) & reorder warning",
+      "Laporan laba rugi berkala dan ekspor PDF"
+    ],
+    "link": "https://github.com/sunghoon31/calliandra-pos"
+  }
+]

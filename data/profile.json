@@ -1,0 +1,19 @@
+{
+  "nama": "Naelul Kirom Indalloh",
+  "nim": "242505011",
+  "profesi": "Information Systems Student & System Analyst",
+  "kampus": "Universitas Ma'soem",
+  "fakultas": "Komputer",
+  "kelas": "SI-R-5",
+  "mataKuliah": "Pemrograman Mobile 2",
+  "dosen": "Iin Solihin, M.Kom",
+  "foto": "profile",
+  "deskripsi": "Mahasiswa Sistem Informasi Universitas Ma'soem yang fokus pada analisis proses bisnis, perancangan sistem informasi, UI/UX, dan pengembangan aplikasi mobile React Native serta web modern.",
+  "lokasi": "Bandung / Sumedang, Jawa Barat, Indonesia",
+  "kontak": {
+    "email": "naelulkirom@gmail.com",
+    "whatsapp": "+62895328620093",
+    "github": "https://github.com/sunghoon31",
+    "instagram": "https://instagram.com/elqi_6"
+  }
+}
