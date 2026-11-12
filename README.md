@@ -210,25 +210,7 @@ uts_expo_naelul/
 
 ---
 
-## 🎬 Naskah Video Demo (Maksimal 3 Menit)
 
-| Alokasi Waktu | Segmen | Poin Penjelasan yang Ditampilkan |
-| :---: | :--- | :--- |
-| **0:00 – 0:15** | **Perkenalan** | Ucapkan salam, sebutkan Nama (**Naelul Kirom Indalloh**), NIM (**242505011**), Kelas (**SI-R-5 / SI-NR-5**), Dosen Pengampu (**Iin, M.Kom**), dan klaim **Level 10 (Industry)**. |
-| **0:15 – 0:55** | **Penjelasan Kode & Arsitektur** | Tunjukkan struktur folder di editor: jelaskan aliran 5-lapisan dari `data/profile.json` → `services/profileService.js` → `hooks/useAsyncData.js` → Layar → `ProfileHeader` via *props*. Tekankan bahwa teks tidak ada yang di-hardcode. |
-| **0:55 – 1:15** | **Layout & Theme Switcher** | Tunjukkan layar Home di HP Android: foto bulat, NIM, nama, tombol tema di pojok kanan atas. Ketuk toggle tema untuk demonstrasi perpindahan instan terang/gelap dan jelaskan bahwa preferensi tersimpan di `AsyncStorage`. |
-| **1:15 – 1:45** | **Fitur Level 7 & Navigasi Tab** | Buka tab **Skills** (tunjukkan kategori dan bar progres), buka tab **Portfolio** (ketik pencarian, pilih chip filter, demokan *EmptyState*, ketuk kartu untuk membuka halaman **Detail Proyek** `/project/[id]`), buka tab **About** (tunjukkan timeline pendidikan/organisasi & hobi). |
-| **1:45 – 2:10** | **Tab My Score (Level 8)** | Buka tab **My Score**: tunjukkan identitas akademik, highlight Current Score **89 Grade A**, **12.375 LP**, dan 4 kartu progress bar (Attendance 100%, Practice 87%, Quest 95%, Challenge 100%). Tarik ke bawah untuk demonstrasi *pull-to-refresh*. |
-| **2:10 – 2:35** | **Formulir Kontak & Fitur Level 10** | Buka tab **Contact**: tekan "Kirim Pesan" dalam keadaan kosong (tunjukkan 3 validasi error inline), isi pesan valid lalu kirim (tunjukkan status loading, banner sukses, form ter-reset, dan pesan muncul di riwayat lokal). Jelaskan penanganan `ErrorState` + tombol "Coba Lagi". |
-| **2:35 – 3:00** | **Kualitas Kode & Penutup** | Buka terminal di PC: jalankan `npm test` (tunjukkan 10 test suite / 49 test lulus hijau), jalankan `npm run lint` (bersih), sebutkan README & arsitektur telah lengkap, lalu tutup demo dengan sopan. |
-
----
-
-## 📝 Format Deskripsi Video Pengumpulan
-
-Salin dan gunakan teks berikut pada deskripsi video YouTube / Google Drive Anda (pastikan link source code berada pada baris pertama):
-
-```text
 Source code: https://github.com/sunghoon31/uts_expo_naelul
 
 Nama Lengkap: Naelul Kirom Indalloh
